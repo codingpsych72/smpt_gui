@@ -1,2 +1,22 @@
 # smpt_gui
 simple smpt gui for debian based linux
+
+##THIS IS A SIMPLE GUI FOR SENDING EMAIL USING SMPT 
+###THIS WORKS WHEN THE LESS SECURE APPS IS TURNED ON AND WHEN YOU ARE NOT USING THE TWO FACTOR AUTHENTICATION 
+
+PREREQUIREMENTS:
+   1)python3 installed
+   2)kivy installed
+
+HOW TO?:
+   1)clone the repository-->copy  and paste it in the terminal
+   2)using the command:
+      #git clone (repository)
+   3)make the python script executable (mostly executable as default but if you face any difficulty) chmod +x (script name)
+   4)execute the script:
+     ##python3 smtp_mail.py
+     
+   Fill in the necessary details and click sen mail button and swoosh your mail has been sent!!!!
+   
+   
+   
