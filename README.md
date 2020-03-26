@@ -5,8 +5,8 @@ simple smpt gui for debian based linux
 ###THIS WORKS WHEN THE LESS SECURE APPS IS TURNED ON AND WHEN YOU ARE NOT USING THE TWO FACTOR AUTHENTICATION 
 
 PREREQUIREMENTS:
-   1)python3 installed
-   2)kivy installed
+   1)python3 installed(https://docs.python-guide.org/starting/install3/linux/)
+   2)kivy installed(see https://kivy.org/doc/stable/installation/installation-linux.html)
 
 HOW TO?:
    1)clone the repository-->copy https://github.com/codingpsych72/smpt_gui.gitand paste it in the terminal
