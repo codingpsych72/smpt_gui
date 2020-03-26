@@ -38,5 +38,9 @@ HOW TO?:
      
    5)Fill in the necessary details and click send mail button and swoosh your mail has been sent!!!!
    
+   [SEE THE smtp.png I HAVE ATTACHED TO SEE HOW IT WORKS]
+   
+   Thank you!! :)
+   
    
    
